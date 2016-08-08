@@ -1,16 +1,16 @@
 uid,name,status,location,startdate,enddate,wikipage,twitterhandle
-0,Larry,Active,10 Downing Street,11/02/11,,https://en.wikipedia.org/wiki/Larry_(cat),@Number10cat
-1,Freya,Inactive,11 Downing Street,16/09/12,09/11/14,https://en.wikipedia.org/wiki/Freya_(cat),
-2,Palmerston,Active,Foreign and Commonwealth Office,13/04/16,,https://en.wikipedia.org/wiki/Palmerston_(cat),@diplomog
-3,Gladstone,Active,HM Treasury,01/06/16,,https://en.wikipedia.org/wiki/Gladstone_(cat),@HMTreasuryCat
+0,Larry,Active,10 Downing Street,2011-02-11,,https://en.wikipedia.org/wiki/Larry_(cat),@Number10cat
+1,Freya,Inactive,11 Downing Street,2012-09-16,2014-11-09,https://en.wikipedia.org/wiki/Freya_(cat),
+2,Palmerston,Active,Foreign and Commonwealth Office,2016-04-13,,https://en.wikipedia.org/wiki/Palmerston_(cat),@diplomog
+3,Gladstone,Active,HM Treasury,2016-06-01,,https://en.wikipedia.org/wiki/Gladstone_(cat),@HMTreasuryCat
 4,Cromwell,In Progress,Cabinet Office,,,,
-5,Humphrey,Deceased,10 Downing Street,1988,March 2006,https://en.wikipedia.org/wiki/Humphrey_(cat),
+5,Humphrey,Deceased,10 Downing Street,1988,2006-03,https://en.wikipedia.org/wiki/Humphrey_(cat),
 6,Wilberforce,Deceased,10 Downing Street,1973,1986,https://en.wikipedia.org/wiki/Wilberforce_(cat),
 7,Peter,Deceased,Home Office,1929,1946,https://en.wikipedia.org/wiki/Chief_Mouser_to_the_Cabinet_Office,
 8,Peter II,Deceased,Home Office,1946,1946,https://en.wikipedia.org/wiki/Chief_Mouser_to_the_Cabinet_Office,
 9,Peter III,Deceased,Home Office,1946,1964,https://en.wikipedia.org/wiki/Chief_Mouser_to_the_Cabinet_Office,
 10,Peta,Inactive,Home Office,1964,,https://en.wikipedia.org/wiki/Chief_Mouser_to_the_Cabinet_Office,
-11,Sybil,Deceased,11 Downing Street,2006,27/07/2009,https://en.wikipedia.org/wiki/Sybil_(cat),
+11,Sybil,Deceased,11 Downing Street,2006,2009-07-27,https://en.wikipedia.org/wiki/Sybil_(cat),
 12,Treasury Bill,Inactive,10 Downing Street,1924,1924,https://en.wikipedia.org/wiki/Chief_Mouser_to_the_Cabinet_Office,
 13,Munich Mouser,Inactive,10 Downing Street,1937,1943,https://en.wikipedia.org/wiki/Chief_Mouser_to_the_Cabinet_Office,
 14,Nelson,Inactive,10 Downing Street,,,https://en.wikipedia.org/wiki/Chief_Mouser_to_the_Cabinet_Office,
