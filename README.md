@@ -1,3 +1,3 @@
 # uk-government-cats
 # A bit of whimsy by @peterkwells
-# See also http://catdashboard.herokuapp.com/metrics
+# See also https://peterkwells.github.io/uk-govt-cat-dashboard/ukgovcats.html
