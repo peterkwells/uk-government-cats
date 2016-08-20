@@ -4,7 +4,7 @@ This is not an official list of UK government cats.
 
 View the [front-end to the data](https://peterkwells.github.io/uk-government-cats/)
 View the [dashboard](https://peterkwells.github.io/uk-govt-cat-dashboard)
-Created using [octopub](https://octopub.io/) by the [ODI Labs team](https://theodi.org/labs)
+Created using the [octopub](https://octopub.io/) tool developed by the [ODI Labs team](https://theodi.org/labs)
 
 ## Submission guidelines
 
@@ -23,6 +23,10 @@ Data is formatted as follows:
 + wikipage - the cat's Wikipedia page
 + twitterhandle - the cat's Twitter handle
 
-# Dashboard
+## Dashboard
 
 (Most of) the code for the dashboard is also on [github](https://github.com/peterkwells/uk-govt-cat-dashboard)
+
+## Official registers
+
+Official registers, [authoritative lists that you can trust](https://gds.blog.gov.uk/2015/09/01/registers-authoritative-lists-you-can-trust/), are an important part of a country's [data infrastructure](http://theodi.org/data-infrastructure). To find our more read the [guides](https://www.gov.uk/government/publications/registers/registers) and look at the official [register of registers](http://register.register.gov.uk/).
