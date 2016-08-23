@@ -25,7 +25,7 @@ Data is formatted as follows:
 
 ## Dashboard
 
-(Most of) the code for the dashboard is also on [github](https://github.com/peterkwells/uk-govt-cat-dashboard)
+(Most of) the code for the dashboard is also on [github](https://github.com/peterkwells/uk-govt-cat-dashboard). Some of the code is in [Zapier](https://zapier.com). 
 
 ## Official registers
 
