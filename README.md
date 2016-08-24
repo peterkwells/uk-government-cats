@@ -4,7 +4,7 @@ This is not an official list of UK government cats.
 
 View the [front-end to the data](https://peterkwells.github.io/uk-government-cats/).
 
-View the [dashboard](https://peterkwells.github.io/uk-govt-cat-dashboard).
+View the [dashboard](https://peterkwells.github.io/uk-govt-cat-dashboard/ukgovcats.html).
 
 Built using the [octopub](https://octopub.io/) tool developed by the [ODI Labs team](https://theodi.org/labs).
 
