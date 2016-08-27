@@ -24,7 +24,7 @@ Data is formatted as follows:
 + location - the government department/office where the cat is located
 + startdate - ISO8601 compliant date for start of service
 + enddate - ISO8601 compliant date for end of service
-+ wikipage - the cat's Wikipedia page
++ source - good evidence for the cat's record, for example a Wikipedia page or news article
 + twitterhandle - the cat's Twitter handle
 
 ## Dashboard
