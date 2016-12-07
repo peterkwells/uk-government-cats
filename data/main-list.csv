@@ -3,7 +3,7 @@ uid,name,status,location,startdate,enddate,source,twitterhandle
 1,Freya,Inactive,11 Downing Street,2012-09-16,2014-11-09,https://en.wikipedia.org/wiki/Freya_(cat),
 2,Palmerston,Active,Foreign and Commonwealth Office,2016-04-13,,https://en.wikipedia.org/wiki/Palmerston_(cat),@diplomog
 3,Gladstone,Active,HM Treasury,2016-06-01,,https://en.wikipedia.org/wiki/Gladstone_(cat),@HMTreasuryCat
-4,Cromwell,In Progress,Cabinet Office,,,http://www.telegraph.co.uk/news/2016/08/03/cabinet-office-set-to-appoint-cat-called-cromwell-as-chief-mouse/,
+4,Cromwell,Inactive,Cabinet Office,,,http://www.telegraph.co.uk/news/2016/08/03/cabinet-office-set-to-appoint-cat-called-cromwell-as-chief-mouse/,
 5,Humphrey,Deceased,10 Downing Street,1988,2006-03,https://en.wikipedia.org/wiki/Humphrey_(cat),
 6,Wilberforce,Deceased,10 Downing Street,1973,1986,https://en.wikipedia.org/wiki/Wilberforce_(cat),
 7,Peter,Deceased,Home Office,1929,1946,https://en.wikipedia.org/wiki/Chief_Mouser_to_the_Cabinet_Office,
@@ -21,3 +21,5 @@ uid,name,status,location,startdate,enddate,source,twitterhandle
 19,Nemo,Inactive,10 Downing Street,1964,,http://www.purr-n-fur.org.uk/famous/humphrey.html,
 20,Jilkie,Unknown,UK Embassy Qatar,2015-07-01,,https://www.instagram.com/p/4lyzjyNQdY/,
 21,Molly,Unknown,UK Ambassador's Residence Bulgaria,2014-02-26,,http://blogs.fco.gov.uk/britishembassysofia/2014/02/26/living-in-the-british-ambassadors-residence-in-sofia/,
+22,Evie,Active,Cabinet Office,2016-12-06,,http://intranet.cabinetoffice.gov.uk/news/introducing-the-cabinet-office-cats/,
+23,Ossie,Active,Cabinet Office,2016-12-06,,http://intranet.cabinetoffice.gov.uk/news/introducing-the-cabinet-office-cats/,
