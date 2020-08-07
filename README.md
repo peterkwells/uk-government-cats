@@ -2,13 +2,14 @@
 
 This is not an official list of UK government cats. 
 
-View the [front-end to the data](https://peterkwells.github.io/uk-government-cats/).
+View the [front-end to the data](https://peterkwells.github.io/uk-government-cats/) on github. This was built using the [octopub](https://octopub.io/) tool developed by the [ODI Labs team](https://theodi.org/labs).
 
-View the [dashboard](https://peterkwells.github.io/uk-govt-cat-dashboard/ukgovcats.html).
 
-Built using the [octopub](https://octopub.io/) tool developed by the [ODI Labs team](https://theodi.org/labs).
+Use the data in a [more register like format](https://registers.app/register/11:320), provided by the [Register Dynamics](https://registers.app/) team.
 
-Read a [blog](https://medium.com/@peterkwells/gov-cats-f143d4a7407b#.mx9junxy7) about how this was created.
+View the [dashboard](https://peterkwells.github.io/uk-govt-cat-dashboard/ukgovcats.html). The dashboard is built on the github version of the data.
+
+Read a [blog](https://medium.com/@peterkwells/gov-cats-f143d4a7407b#.mx9junxy7) about how this was originally created.
 
 ## Submission guidelines
 
@@ -26,6 +27,8 @@ Data is formatted as follows:
 + enddate - ISO8601 compliant date for end of service
 + source - good evidence for the cat's record, for example a Wikipedia page or news article
 + twitterhandle - the cat's Twitter handle
+
+The person handling the pull request has responsibility for updating the [version of the data](https://registers.app/register/11:320) on [registers.app](https://registers.app/).
 
 ## Dashboard
 
