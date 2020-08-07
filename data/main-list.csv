@@ -1,7 +1,7 @@
 uid,name,status,location,startdate,enddate,source,twitterhandle
 0,Larry,Active,10 Downing Street,2011-02-11,,https://en.wikipedia.org/wiki/Larry_(cat),@Number10cat
 1,Freya,Inactive,11 Downing Street,2012-09-16,2014-11-09,https://en.wikipedia.org/wiki/Freya_(cat),
-2,Palmerston,Active,Foreign and Commonwealth Office,2016-04-13,,https://en.wikipedia.org/wiki/Palmerston_(cat),@diplomog
+2,Palmerston,Inactive,Foreign and Commonwealth Office,2016-04-13,2020-08-07,https://en.wikipedia.org/wiki/Palmerston_(cat),@diplomog
 3,Gladstone,Active,HM Treasury,2016-06-01,,https://en.wikipedia.org/wiki/Gladstone_(cat),@HMTreasuryCat
 4,Cromwell,Inactive,Cabinet Office,,,http://www.telegraph.co.uk/news/2016/08/03/cabinet-office-set-to-appoint-cat-called-cromwell-as-chief-mouse/,
 5,Humphrey,Deceased,10 Downing Street,1988,2006-03,https://en.wikipedia.org/wiki/Humphrey_(cat),
